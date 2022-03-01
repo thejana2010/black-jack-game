@@ -10,7 +10,7 @@
 
 **Next step**
 
-<img src="./readme photos/Untitled3.png" width="1000" height="840" />
+<img src="./readme photos/Untitled3.png" width="150" height="100" />
 
 **Next step**
 
