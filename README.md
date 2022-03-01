@@ -1,3 +1,3 @@
 # black-jack-game
 
-click code download
+click to code download
