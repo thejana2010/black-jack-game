@@ -8,23 +8,23 @@
 
 <img src="./readme photos/capcur2.png" width="550" height="500" />
 
-**Next step**
+**Next step :point_down:**
 
 <img src="./readme photos/Untitled3.png" width="550" height="500" />
 
-**Next step**
+**Next step :point_down:**
 
 <img src="./readme photos/Untitled4.png" width="550" height="500" />
 
-**Next step**
+**Next step :point_down:**
 
 <img src="./readme photos/Untitled5.png" width="550" height="500" />
 
-**Next step**
+**Next step :point_down:**
 
 <img src="./readme photos/Untitled6.png" width="550" height="500" />
 
-**Next step**
+**Next step :point_down:**
 
 <img src="./readme photos/Untitled7.png" width="550" height="500" />
 
