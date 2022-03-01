@@ -6,9 +6,9 @@
 
 # setup
 
-![image] (file:///D:/game/readme%20photos/capcur2.png) 
+![image] (https://mega.nz/file/btcEDbYL#TOWPTqY_7yjv92l2N3WxuKnAARqVPClF398KTLvVxt8) 
 
-![image] (file:///D:/game/readme%20photos/Untitled3.png)
+![image] (https://mega.nz/file/LhVS1bCL#ZZzP_K8aUcPtQYu45wv4Oom-zRlIFm2vKivOYP-mJxM)
 
 
 
