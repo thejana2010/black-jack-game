@@ -1,8 +1,6 @@
 # black-jack-game
 
-# Download 
-
-:point_down:
+# Download :point_down:
 
 *https://github.com/thejana2010/black-jack-game/archive/refs/heads/master.zip*
 
