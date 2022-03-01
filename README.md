@@ -6,7 +6,9 @@
 
 # setup
 
-![image] (capcur2.png) 
+![image] (file:///D:/game/readme%20photos/capcur2.png) 
 
-![image] (Untit 
+![image] (file:///D:/game/readme%20photos/Untitled3.png)
+
+
 
