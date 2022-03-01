@@ -2,13 +2,23 @@
 
 # Download :point_down:
 
-*https://github.com/thejana2010/black-jack-game/archive/refs/heads/master.zip*
+**https://github.com/thejana2010/black-jack-game/archive/refs/heads/master.zip**
 
 # setup :point_down:
 
-![image] (https://mega.nz/file/btcEDbYL#TOWPTqY_7yjv92l2N3WxuKnAARqVPClF398KTLvVxt8) 
+<img src="./readme photos/capcur2.png" width="150" height="100" />
 
-![image] (https://mega.nz/file/LhVS1bCL#ZZzP_K8aUcPtQYu45wv4Oom-zRlIFm2vKivOYP-mJxM)
+**Next step**
 
+<img src="./readme photos/Untitled3.png" width="150" height="100" />
 
+**Next step**
+
+<img src="./readme photos/Untitled4.png" width="150" height="100" />
+
+<img src="./readme photos/Untitled5.png" width="150" height="100" />
+
+<img src="./readme photos/Untitled6.png" width="150" height="100" />
+
+<img src="./readme photos/Untitled7.png" width="150" height="100" />
 
