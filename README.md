@@ -4,7 +4,7 @@
 
 *https://github.com/thejana2010/black-jack-game/archive/refs/heads/master.zip*
 
-# setup
+# setup :point_down:
 
 ![image] (https://mega.nz/file/btcEDbYL#TOWPTqY_7yjv92l2N3WxuKnAARqVPClF398KTLvVxt8) 
 
