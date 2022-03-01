@@ -2,7 +2,7 @@
 
 # Download 
 
-:EMOJICODE::point_down:
+:point_down:
 
 *https://github.com/thejana2010/black-jack-game/archive/refs/heads/master.zip*
 
