@@ -21,7 +21,7 @@
 
 **Next step :point_down:**
 
-<img src="./readme photos/Untitled5.png" width="570" height="500" />
+<img src="./readme photos/Untitled8.png" width="570" height="500" />
 
 **Next step :point_down:**
 
