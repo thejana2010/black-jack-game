@@ -5,7 +5,7 @@
 **https://github.com/thejana2010/black-jack-game/archive/refs/heads/master.zip**
 
 <details>
-  <summary><b> **Setup :point_down:** </></b></summary>
+  <summary><b> Setup :point_down: </></b></summary>
   <br/>
 
 
