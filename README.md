@@ -10,27 +10,27 @@
   <br/>
 
 
-<img src="./readme photos/capcur2.png" width="570" height="500" />
+<img src="./readme photos/capcur2.png"/>
 
 **Next step <img src="https://c.tenor.com/k2GZAYWuTS4AAAAi/backhand-index-pointing-down-joypixels.gif" width="20px">**
 
-<img src="./readme photos/Untitled3.png" width="570" height="500" />
+<img src="./readme photos/Untitled3.png"/>
 
 **Next step <img src="https://c.tenor.com/k2GZAYWuTS4AAAAi/backhand-index-pointing-down-joypixels.gif" width="20px">**
 
-<img src="./readme photos/Untitled4.png" width="570" height="500" />
+<img src="./readme photos/Untitled4.png"/>
 
 **Next step <img src="https://c.tenor.com/k2GZAYWuTS4AAAAi/backhand-index-pointing-down-joypixels.gif" width="20px">**
 
-<img src="./readme photos/Untitled5.png" width="570" height="500" />
+<img src="./readme photos/Untitled5.png"/>
 
 **Next step <img src="https://c.tenor.com/k2GZAYWuTS4AAAAi/backhand-index-pointing-down-joypixels.gif" width="20px">**
 
-<img src="./readme photos/Untitled6.png" width="570" height="500" />
+<img src="./readme photos/Untitled6.png"/>
 
 **Next step <img src="https://c.tenor.com/k2GZAYWuTS4AAAAi/backhand-index-pointing-down-joypixels.gif" width="20px">**
 
-<img src="./readme photos/Untitled7.png" width="570" height="500" />
+<img src="./readme photos/Untitled7.png"/>
 
 
 </details>
